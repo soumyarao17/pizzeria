@@ -5,8 +5,8 @@ Demo Screenshots attatched -
 2. ![img_2.png](img_2.png)
 3. ![img_4.png](img_4.png)
 4. ![img_3.png](img_3.png)
-5. ![Screenshot 2023-09-19 at 5.10.56 PM.png](..%2F..%2FDesktop%2FScreenshot%202023-09-19%20at%205.10.56%20PM.png)
-6. ![Screenshot 2023-09-19 at 5.13.29 PM.png](..%2F..%2FDesktop%2FScreenshot%202023-09-19%20at%205.13.29%20PM.png)
+5. ![img_5.png](img_5.png)
+6. ![img_6.png](img_6.png)
 
 
 
